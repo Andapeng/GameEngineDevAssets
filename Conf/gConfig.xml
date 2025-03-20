@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Width>800</Width>
+	<Height>600</Height>
+	<DepthBits>32</DepthBits>
+	<StencilBits>8</StencilBits>
+	<GraphicsLib>
+		<Name>OpenGL</Name>
+		<MajorVersion>4</MajorVersion>
+		<MinorVersion>5</MinorVersion>
+	</GraphicsLib>
+	<Resource path="Assets">
+		<Textures>
+			<Texture name ="">
+				<FileName></FileName>
+			</Texture>
+		</Textures>
+	</Resource>
+</Root>
